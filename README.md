@@ -1,5 +1,5 @@
 # ZicoSeq beta version
-ZicoSeq is a permutation-based framework for differential abundance analysis of Zero-inflated Compositional Sequencing data such as microbiome data. Currently, it has the following components:
+ZicoSeq is a permutation-based framework for differential abundance analysis of ** Zero-inflated Compositional Sequencing** data such as microbiome data. Currently, it has the following components:
 
 **Winsorization** to decrease the influence of outliers
 
